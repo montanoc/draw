@@ -1,0 +1,45 @@
+body {
+	background-color: aquamarine;
+}
+#canvascontainer {
+	background-color: deeppink;
+}
+#saveButton {
+	background-color: #4CAF50;
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	padding: 20px;
+	border-radius: 50%;
+	width: 100px;
+	height: 100px; 
+}
+#clearButton {
+	background-color: #4CAF50;
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	padding: 20px;
+	border-radius: 50%;
+	width: 100px;
+	height: 100px; 
+}
+/*color of the numbers on the ordered list*/
+ol {
+	color: aqua;
+	
+}
+a: active {
+	color: darkorchid;
+}
+a: hover {
+	color: deepskyblue;
+}
